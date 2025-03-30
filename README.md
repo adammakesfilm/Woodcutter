@@ -1,6 +1,6 @@
 # Woodcutter
 
-This datapack is a crafting tweak that allows you to use the stonecutter to craft various wood blocks. The datapack is intended to be used in conjunction with the [Vanilla Tweaks](https://vanillatweaks.net/picker/crafting-tweaks) "More Stairs", "More Bark", and "More Trapdoors" datapacks because the output of the stonecutter is the same as the output of the modified recipies in the Vanilla Tweaks datapacks. If you aren't using them, you may want to modify the recipies in this datapack to use the vanilla recipies instead.
+This datapack is a crafting tweak that allows you to use the stonecutter to craft various wood blocks. The datapack is intended to be used in conjunction with the [Vanilla Tweaks](https://vanillatweaks.net/picker/crafting-tweaks) "More Stairs", "More Bark", and "More Trapdoors" datapacks because the output of the stonecutter is the same as the output of the modified recipes in the Vanilla Tweaks datapacks. If you aren't using them, you may want to modify the recipes in this datapack to use the vanilla recipes instead.
 
 ## Installation
 

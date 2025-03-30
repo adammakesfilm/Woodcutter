@@ -1,6 +1,15 @@
 {
   "pack": {
     "pack_format": 71,
-    "description": "Woodcutter"
+    "description": [
+      {
+        "text": "Woodcutter",
+        "color": "brown"
+      },
+      {
+        "text": "Adammakesfilm",
+        "color": "blue"
+      }
+    ]
   }
 }
